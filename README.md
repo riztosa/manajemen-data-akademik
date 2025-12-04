@@ -3,8 +3,9 @@
 Aplikasi web sederhana untuk pengelolaan data akademik kampus, dibangun menggunakan **PHP Native**. Aplikasi ini memiliki fitur CRUD (Create, Read, Update, Delete) untuk data mahasiswa dan program studi.
 
 ## 📸 Tampilan Aplikasi
+<img width="1366" height="653" alt="image" src="https://github.com/user-attachments/assets/49474c97-0564-48f0-b689-5f4aba09b8bb" />
+<img width="1366" height="653" alt="image" src="https://github.com/user-attachments/assets/c790ca5f-caaa-4c2c-ba97-2c2ec1e7f890" />
 
-_(Opsional: Kamu bisa memasukkan screenshot aplikasi di sini nanti jika sudah di-upload)_
 
 ## 🛠️ Teknologi yang Digunakan
 
